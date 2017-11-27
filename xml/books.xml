@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<books>
+	<book>
+		<title>El señor de los anillos</title>
+		<numero>1º</numero>
+	</book>
+	<book>
+		<title>El señor de los anillos</title>
+		<numero>2º</numero>
+	</book>
+</books>
